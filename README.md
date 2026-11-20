@@ -5,7 +5,7 @@ I'm a Business Information Technology student and aspiring software developer, p
 I'm currently building my skills, working on projects, and exploring different areas of tech as I work towards becoming a software developer. 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;BBIT+Student;Aspiring+Developer;Exploring+Cloud+Computing;Business+and+Technology" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;BBIT+Student;Economics;Aspiring+Developer;Exploring+Cloud+Computing;Business+and+Technology" />
 </p>
 
 ### 🛠️ Tech Stack & Tools
