@@ -49,5 +49,9 @@ I'm currently building my skills, working on projects, and exploring different a
 <p align="left">
   <a href="https://www.linkedin.com/in/faith-wekesa-a2a107368/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+## My GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
   </a>
 </p>
