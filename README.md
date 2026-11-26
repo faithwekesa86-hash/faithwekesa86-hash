@@ -52,6 +52,6 @@ I'm currently building my skills, working on projects, and exploring different a
 
 ## My GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faithwekesa86-hash)
   </a>
 </p>
